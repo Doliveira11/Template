@@ -1,4 +1,4 @@
-# Aprendizado por Projeto Integrado (API) - Template
+# API (API) - Template
 
 Template para os projetos do curso de graduação em Gestão da Produção Industrial, ensinando na utilização do repositório digital "GitHub". 
 
@@ -40,7 +40,7 @@ Futuramente
 </p>
 
 
-# Equipe
+# Equipe / Denise e Gabriel
 ![Equipe](https://github.com/AndreLuizRibeiro/Template/blob/main/.img/gettyimages-1380215929-612x612.jpg?raw=true)
 
 # Objetivo do Projeto
